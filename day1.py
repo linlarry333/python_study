@@ -1,0 +1,9 @@
+#https://www.cnblogs.com/linhaifeng/articles/5937962.html
+#https://www.cnblogs.com/xiaoyuanqujing
+#https://blog.csdn.net/hguisu/article/details/7445768/
+#进制转换
+#原码补码反码
+#物理层与数据链路层
+#osi七层协议（五层-四层）
+#物理层：发送电信号1.0
+#数据链路层：定义电信号的分组方式---------以太网协议---数据帧
